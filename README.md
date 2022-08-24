@@ -1,7 +1,10 @@
 # clothes_store_ui
 
-A Clothes Store UI developed with Flutter framework.
+A Clothes Store UI developed with Flutter.
 
+## Final Result
+
+![](final.svg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
